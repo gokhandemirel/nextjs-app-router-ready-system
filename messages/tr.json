@@ -1,0 +1,24 @@
+{
+  "metaData": {
+    "title": "Nextjs App Router Ready System - TR",
+    "description": ""
+  },
+  "homePage": {
+    "title": "Nextjs App Router Ready System - TR",
+    "todoLoadText": "Loading todo list..."
+  },
+  "login": {
+    "title": "Login",
+    "formFieldUsername": "Username / nextjs",
+    "formFieldPassword": "Password / 1234",
+    "formButtonLogin": "Login"
+  },
+  "menu": {
+    "home": "Home",
+    "producted": "Producted",
+    "tr": "TR",
+    "en": "EN",
+    "login": "Login",
+    "logout": "Logout"
+  }
+}
